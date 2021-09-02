@@ -12,7 +12,11 @@ seo:
   title: hihi
   description: hihihi
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/05.01-classification-2.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 ---
