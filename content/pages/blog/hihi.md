@@ -10,7 +10,7 @@ image_alt: lorem-ipsum
 image_position: top
 seo:
   title: hihi
-  description: ''
+  description: hihihi
   robots: []
   extra: []
   type: stackbit_page_meta
