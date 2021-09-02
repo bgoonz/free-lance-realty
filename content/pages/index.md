@@ -27,7 +27,7 @@ sections:
     subtitle: Who I work with
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: /images/A-a-week-8-converted-16.png
         image_alt: Logo 1
         image_align: center
       - title: lorem-ipsum
