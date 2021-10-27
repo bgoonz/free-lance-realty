@@ -1,0 +1,23 @@
+query {
+  findBookISBN( id: 9780140328721 ) {
+    title
+    by_statement
+    publish_date
+    authors {
+      key
+    }
+
+    findBook( id: "OL24981637M" ) {
+
+
+    }
+    findAuthor( id: "OL576769A" ) {
+      name
+      personal_name
+      alternate_names
+      remote_ids {
+        wikidata
+      }
+    }
+  }
+}
