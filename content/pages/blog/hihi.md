@@ -17,6 +17,10 @@ seo:
       value: /images/05.01-classification-2.png
       keyName: property
       relativeUrl: true
+    - name: ''
+      value: ''
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 author: content/data/team/person-3g9kv88cp.json
