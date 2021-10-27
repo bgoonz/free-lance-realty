@@ -4,7 +4,7 @@ subtitle: Self-Org
 date: '2021-10-27'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: Bryan Guner
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
