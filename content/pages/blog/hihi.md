@@ -6,7 +6,7 @@ categories: []
 tags: []
 excerpt: Bryan Guner
 thumb_image_alt: 'organization '
-image_alt: lorem-ipsum
+image_alt: website
 image_position: top
 seo:
   title: hihi
