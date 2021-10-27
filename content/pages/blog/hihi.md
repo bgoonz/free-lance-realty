@@ -20,6 +20,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 author: content/data/team/person-3g9kv88cp.json
+thumb_image: /images/bb090e30d34aa476398902baf0527dc3 (1).jpg
 ---
 ## Lorem ipsum
 
