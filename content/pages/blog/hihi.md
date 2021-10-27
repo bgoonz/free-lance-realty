@@ -11,7 +11,8 @@ image_position: top
 seo:
   title: hihi
   description: hihihi
-  robots: []
+  robots:
+    - all
   extra:
     - name: 'og:image'
       value: /images/05.01-classification-2.png
