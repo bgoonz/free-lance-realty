@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Embeds
 subtitle: lorem-ipsum
 date: '2021-09-02'
 categories: []
