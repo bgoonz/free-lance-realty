@@ -19,6 +19,7 @@ seo:
       relativeUrl: true
   type: stackbit_page_meta
 layout: post
+author: content/data/team/person-3g9kv88cp.json
 ---
 ## Lorem ipsum
 
