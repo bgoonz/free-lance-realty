@@ -5,7 +5,7 @@ date: '2021-10-27'
 categories: []
 tags: []
 excerpt: Bryan Guner
-thumb_image_alt: orginization
+thumb_image_alt: 'organization '
 image_alt: lorem-ipsum
 image_position: top
 seo:
