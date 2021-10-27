@@ -1,7 +1,7 @@
 ---
-title: lorem-ipsum
-subtitle: lorem-ipsum
-date: '2021-09-02'
+title: Embeds
+subtitle: Self-Org
+date: '2021-10-27'
 categories: []
 tags: []
 excerpt: lorem-ipsum
