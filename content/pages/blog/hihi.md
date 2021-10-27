@@ -21,6 +21,7 @@ seo:
 layout: post
 author: content/data/team/person-3g9kv88cp.json
 thumb_image: /images/bb090e30d34aa476398902baf0527dc3 (1).jpg
+image: /images/top-half-mihir.png
 ---
 ## Lorem ipsum
 
