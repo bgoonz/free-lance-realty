@@ -1,6 +1,6 @@
 ---
 title: Embeds
-subtitle: lorem-ipsum
+subtitle: Self-Org
 date: '2021-09-02'
 categories: []
 tags: []
