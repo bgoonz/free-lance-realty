@@ -141,7 +141,7 @@ sections:
           actually worth 10 stars, not just 5."**
 
 
-          **Charmange M**, 7/9/2018
+          ##### **Charmange M**, 7/9/2018
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
