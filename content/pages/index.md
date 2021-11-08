@@ -72,7 +72,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Online Store Management
-        subtitle: 'Product updates, inventory and pricing.'
+        subtitle: "Vickie LasherBranch Manager\_| NMLS# 235812M:\_(909) 838-3554vickie.lasher@htlenders.comhttp://htlenders.comTX"
         actions:
           - label: Learn More
             url: >-
