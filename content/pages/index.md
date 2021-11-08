@@ -88,7 +88,7 @@ sections:
       - title: Pride In Our Work
         subtitle: Customer Service? Prove it…
         content: >
-          > We hear the term Customer Service every day.  It pops up when
+          > ###### We hear the term Customer Service every day.  It pops up when
           watching T.V commercials while drinking our morning coffee. You see it
           at the fast food place where we grab our breakfast that will sit in
           our stomachs like a brick for the rest of the day. Don’t forget about
