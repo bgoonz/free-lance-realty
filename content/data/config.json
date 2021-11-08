@@ -8,7 +8,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "Personal",
-        "logo": "/images/logo-dark-big.png",
+        "logo": "/images/home.jpg",
         "logo_alt": "Personal logo",
         "has_primary_nav": true,
         "primary_nav_links": [
@@ -56,6 +56,16 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "Angle-Wing Pictures",
+                "url": "/angle-wing",
+                "style": "primary",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "has_secondary_nav": true
@@ -83,11 +93,6 @@
         ],
         "has_secondary_nav": true,
         "secondary_nav_links": [
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
             {
                 "label": "Terms & Conditions",
                 "url": "/terms-conditions",
