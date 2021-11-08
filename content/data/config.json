@@ -5,7 +5,7 @@
     "style": "classic",
     "palette": "blue",
     "mode": "light",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "title": "Personal",
         "logo": "/images/logo-too-big-544aa3be.png",
