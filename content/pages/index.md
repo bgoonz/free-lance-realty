@@ -59,10 +59,7 @@ sections:
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: "### I specialize in:&#xA;\n\n*   Purchase Loans\n\n*   Refinance\n\n*   First Time Buyer Programs\n\n*   Reverse Mortgage\n\n\_\n\n"
         actions:
           - label: See Writing Samples
             url: /faq
