@@ -72,7 +72,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Online Store Management
-        subtitle: "Vickie LasherBranch Manager\_| NMLS# 235812M:\_(909) 838-3554vickie.lasher@htlenders.comhttp://htlenders.comTX"
+        subtitle: "Vickie LasherBranch Manager\_| NMLS# 235812M:\_ \_ \_ \_ \_ \_ (909) 838-3554\_ |\_ vickie.lasher@htlenders.com http://htlenders.comTX"
         actions:
           - label: Learn More
             url: >-
