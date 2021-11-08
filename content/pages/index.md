@@ -57,12 +57,9 @@ sections:
     title: My services
     subtitle: What I do
     features:
-      - title: Content Creation
-        subtitle: 'Website, blog, social media and more.'
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+      - title: What I do
+        subtitle: 'Home office in Austin Tx. NMLS #235812'
+        content: "### I specialize in:\n\n*   **Purchase Loans\U0001F4B5**\n\n*   **Refinance \U0001F4B0**\n\n*   **First Time Buyer Programs \U0001F4B3**\n\n*   **Reverse Mortgage**[**\U0001F3D8️**](https://emojipedia.org/houses/)[**⏪**](https://emojipedia.org/fast-reverse-button/)\n\n"
         actions:
           - label: See Writing Samples
             url: /faq
@@ -75,7 +72,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Online Store Management
-        subtitle: 'Product updates, inventory and pricing.'
+        subtitle: "Vickie LasherBranch Manager\_| NMLS# 235812M:\_ \_ \_ \_ \_ \_ (909) 838-3554\_ |\_ vickie.lasher@htlenders.com http://htlenders.comTX"
         actions:
           - label: Learn More
             url: >-
@@ -88,10 +85,10 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
-      - title: Technical Content
+      - title: Pride In Our Work
         subtitle: Customer Service? Prove it…
         content: >
-          > We hear the term Customer Service every day.  It pops up when
+          > ###### We hear the term Customer Service every day.  It pops up when
           watching T.V commercials while drinking our morning coffee. You see it
           at the fast food place where we grab our breakfast that will sit in
           our stomachs like a brick for the rest of the day. Don’t forget about
