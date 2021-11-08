@@ -104,7 +104,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/top25-fa54ec30.webp
+        image: /images/top25.jpg
         image_alt: Feature 3 illustration
         media_position: right
         media_width: sixty
