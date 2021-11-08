@@ -1,15 +1,12 @@
- 
+
 
 ![](https://static.wixstatic.com/media/5afe60462baf41e79586f3fdaf78d664.jpg/v1/fill/w_480,h_291,al_c,q_80,usm_0.66_1.00_0.01,blur_2/5afe60462baf41e79586f3fdaf78d664.jpg)
 
-<span style="font-size:87px"><span style="font-family:libre baskerville,serif">[Vickie Lasher ](index.html)</span></span>
-=========================================================================================================================
+# <span style="font-size:87px"><span style="font-family:libre baskerville,serif">[Vickie Lasher ](index.html)</span></span>
 
-NMLS \#235812
-=============
+# NMLS \#235812
 
-<span style="font-size:25px"><Vickie.Lasher@htlenders.com> \*909-838-3554</span>
-================================================================================
+# <span style="font-size:25px"><Vickie.Lasher@htlenders.com> \*909-838-3554</span>
 
 <a href="angel-wing-pictures.html" class="_1fbEI"><span class="_1Qjd7">Angel Wing Pictures</span></a>
 
@@ -52,11 +49,9 @@ NMLS \#235812
 
 Use tab to navigate through the menu items.
 
-Meet Our Staff
---------------
+## Meet Our Staff
 
-<span style="font-size:51px;"><span style="font-weight:bold">Our Fearless Leader</span></span>
-----------------------------------------------------------------------------------------------
+## <span style="font-size:51px;"><span style="font-weight:bold">Our Fearless Leader</span></span>
 
 ##### <span style="font-size:12px">A.K.A. "The Whip Cracker"</span>
 
@@ -64,7 +59,7 @@ Meet Our Staff
 
 <span style="font-size:22px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace">Vickie has always taken her own path in life. (Seriously, she ran away and joined the carnival as a teenager. Who does that?)  This core value is why she felt the need to strike out on her own, after years of being an underwriter, she switched roles to become a Producing Branch Manager.  She believes that people are more than just numbers.  She loves having people call her up and tell them what is going on in their lives so she can find out how to best help them meet their goals.  </span></span>
 
- 
+
 
 <span style="font-size:22px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace">One a side note; If you pop by the office it is almost guaranteed that she will be barefoot. </span></span>
 
@@ -104,12 +99,11 @@ Meet Our Staff
 
 <span class="sr-only out-of-view-component" tabindex="-1">Out of gallery</span>
 
-<span style="font-size:55px;"><span style="font-weight:bold;">Follow Me!</span></span>
-======================================================================================
+# <span style="font-size:55px;"><span style="font-weight:bold;">Follow Me!</span></span>
 
 -   <span id="dataItem-jjeedrml1-comp-jjeedrlu"><a href="https://www.facebook.com/vickie.s.lasher" class="_26AQd"></a></span>
 -   <span id="dataItem-jjeedrmm-comp-jjeedrlu"><a href="https://www.instagram.com/vickielasher/" class="_26AQd"></a></span>
 
 <span class="color_12"><span style="font-size:6px">Austin, Austintx, Austin Texas, Austin Realtor, Austin Realestate,  ATX, ATX Realtor ATX Realestate, Home Loan, Home Loans, Mortgage, Mortgage Lender, Loan Officer, Realtor, Realestate, Interest Rate, Interest Rates, Loans, Home, Vickie Lasher, Vicky, Vicki, Oasis, Lake Travis, Lakeway, Cedar Park, Dripping Springs, Buda, Kyle, Round Rock, Georgetown, Leander, Volente, Largo Vista, South Austin, Bee Cave, Spicewood, Westlake, Refinance, New Construction, First Time Homebuyer, Downpayment assistance Programs, Cash out, home buying</span></span>
 
- 
+

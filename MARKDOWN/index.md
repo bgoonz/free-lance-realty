@@ -1,15 +1,12 @@
- 
+
 
 ![](https://static.wixstatic.com/media/5afe60462baf41e79586f3fdaf78d664.jpg/v1/fill/w_480,h_291,al_c,q_80,usm_0.66_1.00_0.01,blur_2/5afe60462baf41e79586f3fdaf78d664.jpg)
 
-<span style="font-size:87px"><span style="font-family:libre baskerville,serif">[Vickie Lasher ](index)</span></span>
-=========================================================================================================================
+# <span style="font-size:87px"><span style="font-family:libre baskerville,serif">[Vickie Lasher ](index)</span></span>
 
-NMLS \#235812
-=============
+# NMLS \#235812
 
-<span style="font-size:25px"><Vickie.Lasher@htlenders.com> \*909-838-3554</span>
-================================================================================
+# <span style="font-size:25px"><Vickie.Lasher@htlenders.com> \*909-838-3554</span>
 
 <a href="angel-wing-pictures.html" class="_1fbEI"><span class="_1Qjd7">Angel Wing Pictures</span></a>
 
@@ -80,7 +77,7 @@ Use tab to navigate through the menu items.
 
 -   <span style="text-decoration:underline"><span style="font-size:15px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace">Reverse Mortgage</span></span></span>
 
- 
+
 
 <span style="font-size:15px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace">Home office in Austin Tx. NMLS \#235812</span></span>
 
@@ -116,7 +113,7 @@ Use tab to navigate through the menu items.
 
 <a href="https://socialsurvey.me/pages/vickie-lasher" class="_3-x13"><img src="https://static.wixstatic.com/media/b5d103_fee1ca15e4ec406d8bb27f0b4bed7391~mv2.jpg/v1/fill/w_188,h_120,al_c,q_80,usm_0.66_1.00_0.01,blur_3/b5d103_fee1ca15e4ec406d8bb27f0b4bed7391~mv2.jpg" /></a>
 
-![IMG\_9873.PNG](https://static.wixstatic.com/media/b5d103_af023f8817ef476d96314aeef668623c~mv2.png/v1/fill/w_95,h_95,al_c,usm_0.66_1.00_0.01,blur_3/IMG_9873_PNG.png)
+![IMG_9873.PNG](https://static.wixstatic.com/media/b5d103_af023f8817ef476d96314aeef668623c~mv2.png/v1/fill/w_95,h_95,al_c,usm_0.66_1.00_0.01,blur_3/IMG_9873_PNG.png)
 
 ### <span style="font-size:19px;">Corporate NMLS 65084</span>
 
@@ -130,12 +127,11 @@ Use tab to navigate through the menu items.
 
 ADVERTISEMENT | This is not a commitment to lend, nor are the rates guaranteed at time of application. Additional conditions, qualifications and restrictions may apply. Other rates, term and products are available, however, not all products are available in all states or for all amounts. Please contact Hometown Lenders, Inc. for more information. 1-888-628-1414 | A division of Hometown Lenders, Inc., an Equal Housing Lender NMLS\# 65084(<span style="text-decoration:underline">[www.nmlsconsumeraccess.org](http://www.nmlsconsumeraccess.org/)</span>) | Terms, conditions, and restrictions may apply. Loan products are subject to availability and credit approval. Not a commitment to extend credit. Hometown Lenders USA AZ BK-0949142. Licensed by the Department of Financial Protection & Innovation 41 DBO 60614
 
-<span style="font-size:55px;"><span style="font-weight:bold;">Follow Me!</span></span>
-======================================================================================
+# <span style="font-size:55px;"><span style="font-weight:bold;">Follow Me!</span></span>
 
 -   <span id="dataItem-jjeedrml1-comp-jjeedrlu"><a href="https://www.facebook.com/vickie.s.lasher" class="_26AQd"></a></span>
 -   <span id="dataItem-jjeedrmm-comp-jjeedrlu"><a href="https://www.instagram.com/vickielasher/" class="_26AQd"></a></span>
 
 <span class="color_12"><span style="font-size:6px">Austin, Austintx, Austin Texas, Austin Realtor, Austin Realestate,  ATX, ATX Realtor ATX Realestate, Home Loan, Home Loans, Mortgage, Mortgage Lender, Loan Officer, Realtor, Realestate, Interest Rate, Interest Rates, Loans, Home, Vickie Lasher, Vicky, Vicki, Oasis, Lake Travis, Lakeway, Cedar Park, Dripping Springs, Buda, Kyle, Round Rock, Georgetown, Leander, Volente, Largo Vista, South Austin, Bee Cave, Spicewood, Westlake, Refinance, New Construction, First Time Homebuyer, Downpayment assistance Programs, Cash out, home buying</span></span>
 
- 
+

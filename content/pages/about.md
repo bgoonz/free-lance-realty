@@ -1,31 +1,31 @@
 ---
 title: About
 seo:
-  title: About
-  description: "Austin, Austintx, Austin Texas, Austin Realtor, Austin Realestate,\_ ATX, ATX Realtor ATX Realestate, Home Loan, Home Loans, Mortgage, Mortgage Lender, Loan Officer, Realtor, Realestate, Interest "
-  extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: About
-      keyName: property
-    - name: 'og:description'
-      value: This is the about page
-      keyName: property
-    - name: 'og:image'
-      value: /images/9GWMM2lf8x-6a46d0df.png
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: About
-    - name: 'twitter:description'
-      value: "Austin, Austintx, Austin Texas, Austin Realtor, Austin Realestate,\_ ATX, ATX Realtor ATX Realestate, Home Loan, Home Loans, Mortgage, Mortgage Lender, Loan Officer, Realtor, Realestate, Interest Rate, Interest Rates, "
-    - name: 'twitter:image'
-      value: /images/9GWMM2lf8x-1e397fe9.png
-      relativeUrl: true
+    title: About
+    description: "Austin, Austintx, Austin Texas, Austin Realtor, Austin Realestate,\_ ATX, ATX Realtor ATX Realestate, Home Loan, Home Loans, Mortgage, Mortgage Lender, Loan Officer, Realtor, Realestate, Interest "
+    extra:
+        - name: 'og:type'
+          value: website
+          keyName: property
+        - name: 'og:title'
+          value: About
+          keyName: property
+        - name: 'og:description'
+          value: This is the about page
+          keyName: property
+        - name: 'og:image'
+          value: /images/9GWMM2lf8x-6a46d0df.png
+          keyName: property
+          relativeUrl: true
+        - name: 'twitter:card'
+          value: summary_large_image
+        - name: 'twitter:title'
+          value: About
+        - name: 'twitter:description'
+          value: "Austin, Austintx, Austin Texas, Austin Realtor, Austin Realestate,\_ ATX, ATX Realtor ATX Realestate, Home Loan, Home Loans, Mortgage, Mortgage Lender, Loan Officer, Realtor, Realestate, Interest Rate, Interest Rates, "
+        - name: 'twitter:image'
+          value: /images/9GWMM2lf8x-1e397fe9.png
+          relativeUrl: true
 layout: page
 ---
 
@@ -264,5 +264,3 @@ When you decide that you are ready to follow the American Dream of homeownership
 -   <span id="dataItem-jjeedrmm-comp-jjeedrlu"><a href="https://www.instagram.com/vickielasher/" class="_26AQd"></a></span>
 
 <span class="color_12"><span style="font-size:6px">Austin, Austintx, Austin Texas, Austin Realtor, Austin Realestate,  ATX, ATX Realtor ATX Realestate, Home Loan, Home Loans, Mortgage, Mortgage Lender, Loan Officer, Realtor, Realestate, Interest Rate, Interest Rates, Loans, Home, Vickie Lasher, Vicky, Vicki, Oasis, Lake Travis, Lakeway, Cedar Park, Dripping Springs, Buda, Kyle, Round Rock, Georgetown, Leander, Volente, Largo Vista, South Austin, Bee Cave, Spicewood, Westlake, Refinance, New Construction, First Time Homebuyer, Downpayment assistance Programs, Cash out, home buying</span></span>
-
-
