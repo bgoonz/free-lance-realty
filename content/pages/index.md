@@ -17,7 +17,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: /images/home-e323ef4e.png
-    background_image_repeat: repeat
+    background_image_repeat: no-repeat
     background_image_size: contain
     background_image_opacity: 8
   - type: grid_section
