@@ -87,7 +87,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/hometown-lenders.png
+        image: /images/hometown2.png
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
