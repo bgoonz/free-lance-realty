@@ -85,7 +85,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
-      - title: Technical Content
+      - title: Pride In Our Work
         subtitle: Customer Service? Prove it…
         content: >
           > We hear the term Customer Service every day.  It pops up when
