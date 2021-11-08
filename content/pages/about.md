@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about page
+      value: "Austin, Austintx, Austin Texas, Austin Realtor, Austin Realestate,\_ ATX, ATX Realtor ATX Realestate, Home Loan, Home Loans, Mortgage, Mortgage Lender, Loan Officer, Realtor, Realestate, Interest Rate, Interest Rates, "
     - name: 'twitter:image'
       value: /images/9GWMM2lf8x-1e397fe9.png
       relativeUrl: true
