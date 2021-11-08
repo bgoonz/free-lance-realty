@@ -58,9 +58,9 @@
                 "no_follow": false
             },
             {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
+                "label": "Angle-Wing Pictures",
+                "url": "/angle-wing",
+                "style": "primary",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "right",
