@@ -83,6 +83,14 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         image: /images/hometown2.png
         image_alt: Feature 2 illustration
         media_position: right
