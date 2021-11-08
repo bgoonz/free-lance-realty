@@ -15,7 +15,7 @@
             {
                 "label": "About",
                 "url": "/about",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "Blog",
@@ -38,7 +38,7 @@
                 "style": "link"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Testimonials ",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
