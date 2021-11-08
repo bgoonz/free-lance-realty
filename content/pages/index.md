@@ -216,7 +216,7 @@ sections:
     background_image: images/watercolor.png
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 5
+    background_image_opacity: 3
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
