@@ -16,10 +16,10 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: /images/home-e323ef4e.png
+    background_image: /images/nice-realestate-7126bc1d.jpg
     background_image_repeat: no-repeat
     background_image_size: contain
-    background_image_opacity: 8
+    background_image_opacity: 10
     background_image_position: left center
   - type: grid_section
     title: Trusted by Companies Big and Small
@@ -76,27 +76,34 @@ sections:
         media_width: sixty
       - title: Online Store Management
         subtitle: 'Product updates, inventory and pricing.'
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
         actions:
           - label: Learn More
-            url: /about
+            url: >-
+              https://htlconnect.htlenders.com/homehub/signup/VICKIE.LASHER@HTLENDERS.COM
             style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-2.svg
+        image: /images/hometown2.png
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
       - title: Technical Content
-        subtitle: 'Your products and services, at scale.'
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        subtitle: Customer Service? Prove it…
+        content: >
+          > We hear the term Customer Service every day.  It pops up when
+          watching T.V commercials while drinking our morning coffee. You see it
+          at the fast food place where we grab our breakfast that will sit in
+          our stomachs like a brick for the rest of the day. Don’t forget about
+          the almost daily phone call from someone trying to sell us on buying
+          more time-shares for our family’s wellbeing. It is said so often that
+          it has become an experience that we don’t often pay attention to
+          unless it’s really terrible or exceptional. This does not in any way
+          diminish the importance of Customer Service. When someone actually
+          performs excellent Customer Service, it’s almost like you’ve just met
+          a unicorn. Well as a Top Rated Mortgage Lender, I do provide excellent
+          Customer Service and I would love to be given the opportunity to prove
+          it.
         actions:
           - label: See Past Work
             url: /faq
@@ -104,7 +111,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-3.svg
+        image: /images/top25.jpg
         image_alt: Feature 3 illustration
         media_position: right
         media_width: sixty
@@ -144,16 +151,6 @@ sections:
 
           ##### **Charmange M**, 7/9/2018
         image: images/miles-tone.png
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Working with Alyvia was great because she was well versed in all of
-          our tools and applications, and was able to manage our store and
-          campaigns without any technical glitches.
-
-
-          **Eleanor Carr,** *CTO, eCommerce Business*
-        image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
       - content: >-
