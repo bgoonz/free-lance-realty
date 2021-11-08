@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Come by and take a picture with The Angel Wings!
 seo:
   title: ''
   description: ''
