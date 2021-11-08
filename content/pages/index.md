@@ -59,7 +59,7 @@ sections:
     features:
       - title: What I do
         subtitle: 'Home office in Austin Tx. NMLS #235812'
-        content: "### I specialize in:&#xA;\n\n*   **Purchase Loans\U0001F4B5**\n\n*   **Refinance \U0001F4B0**\n\n*   **First Time Buyer Programs \U0001F4B3**\n\n*   **Reverse Mortgage**[**\U0001F3D8️**](https://emojipedia.org/houses/)** **[**⏪**](https://emojipedia.org/fast-reverse-button/)\n\n\n\n\_\n"
+        content: "### I specialize in:\n\n*   **Purchase Loans\U0001F4B5**\n\n*   **Refinance \U0001F4B0**\n\n*   **First Time Buyer Programs \U0001F4B3**\n\n*   **Reverse Mortgage**[**\U0001F3D8️**](https://emojipedia.org/houses/)[**⏪**](https://emojipedia.org/fast-reverse-button/)\n\n"
         actions:
           - label: See Writing Samples
             url: /faq
