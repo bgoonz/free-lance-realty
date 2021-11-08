@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m Alyvia. I help my clients succeed online.'
-    subtitle: "2016 Top 25 in Client Satisfaction in the United States!​A title I cherish because it is completely CLIENT DRIVEN!​​I specialize in:​Purchase LoansRefinanceFirst Time Buyer ProgramsReverse Mortgage\_Home office in Austin Tx. NMLS #235812"
+    subtitle: '2016 Top 25 in Client Satisfaction in the United States NMLS #235812'
     actions:
       - label: Contact Me
         url: /contact
