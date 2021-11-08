@@ -2,10 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hi, I’m Alyvia. I help my clients succeed online.'
+    title: Hi, I’m Alyvia. I help my clients succeed online.
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      I will handle your website design and production, social media accounts and digital advertisements for you, at an affordable price.
     actions:
       - label: Contact Me
         url: /contact
@@ -27,59 +26,9 @@ sections:
     subtitle: Who I work with
     align: center
     grid_items:
-      - image: /images/A-a-week-8-converted-16.png
+      - image: images/logo-1.svg
         image_alt: Logo 1
         image_align: center
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        title_align: left
-        content: >-
-- [Platforms](#platforms)
-- [Marketing](#marketing)
-- [Organising conferences](#organising-conferences)
-- [Organising meetups](#organising-meetups)
-- [Ensuring safe and diverse events](#ensuring-safe-and-diverse-events)
-
-## Platforms
-- [Meetup.com](//meetup.com) One of the most common events platforms today. Meetup has an [API](https://www.meetup.com/meetup_api/) with various (community-contributed) [client libraries](https://github.com/meetup/api/blob/master/clients.md).
-- [Sessionize.com](//sessionize.com) A platform for hosting call for speakers / call for papers
-- [Joind.in](//joind.in) Call for papers and feedback platform
-- [Papercall.io](//papercall.io) Call for papers platform
-- [Attending.io](//attending.io/) A great event platform for free events
-- [Picatic](//picatic.com) An easy-to-use event registration platform for free and paid events with a strong API for developers
-
-## Marketing
-- [20 Creative Event Promotion Ideas to Increase Attendance](//www.eventbrite.com/blog/creative-event-promotion-ideas-ds00/) Some useful tips for marketing your events
-- [15 Social Media Tactics To Increase Your Event Exposure](https://blog.picatic.com/15-social-media-tactics-increase-event-marketing-exposure/) How to use social media to gain more ticket sales
-
-## Organising conferences
-- [Less obvious conference list](//github.com/mxsasha/lessobviouschecklist) A great checklist of things you should consider when running a conference
-- [How to tackle the childcare–conference conundrum](http://www.pnas.org/content/early/2018/03/01/1803153115)
-- [How to make your conference perfect?](https://blog.softwaremill.com/how-to-make-your-conference-perfect-a4f0e7f441c5)
-- [Ultimate Event Venue Checklist for Event Planners](https://blog.picatic.com/event-venue-checklist/) An excellent checklist for locking in the perfect venue for your conference
-- [How to have great inclusive audio at your event](https://github.com/njt/event-audio)
-
-## Organising meetups
-- [RLadies Starter Kit](//github.com/rladies/starter-kit) A brilliant example of growing distributed groups under the same banner
-
-## Ensuring safe and diverse events
-- [Awesome Diversity List](//github.com/folkswhocode/awesome-diversity) Extra resources around diversity at events but but also in tech
-- [Global Diversity CFP Day](//www.globaldiversitycfpday.com/) A global initiative to encourage new speakers by hosting workshops around the world
-- [NumFOCUS DISCOVER Cookbook](https://github.com/numfocus/DISCOVER-Cookbook) A guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity & Inclusion in Scientific Computing (DISC) Program.
-- [Ten Simple Rules to Achieve Conference Speaker Gender Balance](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003903)
-- [Ten tips for getting more women speakers](https://geekfeminism.org/2009/08/11/ten-tips-for-getting-more-women-speaker/)
-- [How I Got 50% Women Speakers at My Tech Conference](https://geekfeminism.org/2012/05/21/how-i-got-50-women-speakers-at-my-tech-conference/) Experience of encouraging submissions from women.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: sixty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: /images/eslint-settings-vs-code.png
       - image: images/logo-2.svg
         image_alt: Logo 2
         image_align: center
@@ -109,7 +58,7 @@ sections:
     subtitle: What I do
     features:
       - title: Content Creation
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: Website, blog, social media and more.
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
@@ -260,26 +209,26 @@ seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: og:title
       value: Stackbit Personal Theme
       keyName: property
-    - name: 'og:description'
+    - name: og:description
       value: The preview of the Personal theme
       keyName: property
-    - name: 'og:image'
+    - name: og:image
       value: images/personal-preview.png
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: twitter:title
       value: Stackbit Personal Theme
-    - name: 'twitter:description'
+    - name: twitter:description
       value: The preview of the Personal theme
-    - name: 'twitter:image'
+    - name: twitter:image
       value: images/personal-preview.png
       relativeUrl: true
 layout: advanced
