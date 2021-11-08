@@ -114,12 +114,15 @@ sections:
     title: Testimonials
     subtitle: What My Clients Say
     grid_items:
-      - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
+      - content: >
+          ###### Vickie made our first time experience purchasing a home
+          a&#xA;breeze. She went over all the options that were best for us .
+          Always answered&#xA;our call/texts within minutes. Overall she is
+          amazing at what she does. We'll&#xA;definitely be using her in our
+          future home purchases.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          ##### **Aaliyah D,** 8/24/18
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
