@@ -34,7 +34,7 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: >-
-       - [Platforms](#platforms)
+- [Platforms](#platforms)
 - [Marketing](#marketing)
 - [Organising conferences](#organising-conferences)
 - [Organising meetups](#organising-meetups)
