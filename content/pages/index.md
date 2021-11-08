@@ -92,7 +92,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Technical Content
-        subtitle: 'Your products and services, at scale.'
+        subtitle: Customer Service? Prove it…
         content: >
           > We hear the term Customer Service every day.  It pops up when
           watching T.V commercials while drinking our morning coffee. You see it
