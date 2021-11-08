@@ -28,27 +28,23 @@ seo:
       relativeUrl: true
 layout: page
 ---
-# Navigate
-
-
-
-
-
-## Meet Our Staff&#xA;&#xA;
+## **Meet Our Staff&#xA;**&#xA;
 
 ## **Our Fearless Leader**
 
-##### A.K.A. "The Whip Cracker"
+****![](/images/vikkiiii2.webp)
 
-Vickie has always taken her own path in life. (Seriously, she ran away and joined the carnival as a teenager. Who does that?)  This core value is why she felt the need to strike out on her own, after years of being an underwriter, she switched roles to become a Producing Branch Manager.  She believes that people are more than just numbers.  She loves having people call her up and tell them what is going on in their lives so she can find out how to best help them meet their goals. 
+#### *A.K.A. "The Whip Cracker"*
+
+> Vickie has always taken her own path in life. (Seriously, she ran away and joined the carnival as a teenager. Who does that?)  This core value is why she felt the need to strike out on her own, after years of being an underwriter, she switched roles to become a Producing Branch Manager.  She believes that people are more than just numbers.  She loves having people call her up and tell them what is going on in their lives so she can find out how to best help them meet their goals. 
 
  
 
-One a side note; If you pop by the office it is almost guaranteed that she will be barefoot.
+**One a side note; If you pop by the office it is almost guaranteed that she will be barefoot.**
 
   
 
-Don’t be fooled by her easygoing nature.  She will work tirelessly to get the job done.  She isn’t afraid to put in long hours to get your loan completed.  Vickie has over 34 years of experience in the mortgage industry. Her advice and insight is often sought out when other loan officers and realtors need help getting loans approved.  She happily guides them to do the best for their clients.  Her passion for getting people into the security of owning a home is unparalleled.
+> Don’t be fooled by her easygoing nature.  She will work tirelessly to get the job done.  She isn’t afraid to put in long hours to get your loan completed.  Vickie has over 34 years of experience in the mortgage industry. Her advice and insight is often sought out when other loan officers and realtors need help getting loans approved.  She happily guides them to do the best for their clients.  Her passion for getting people into the security of owning a home is unparalleled.
 
 ​
 
