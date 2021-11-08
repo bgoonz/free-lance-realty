@@ -52,28 +52,43 @@ NMLS \#235812
 
 Use tab to navigate through the menu items.
 
-<span style="line-height: 1.1em;"><span color="color_0">Get in touch</span></span>
-----------------------------------------------------------------------------------
+<span style="font-size:84px;"><span style="font-weight:bold;">Texas</span></span>
+---------------------------------------------------------------------------------
 
-###### <span style="text-decoration:underline"><span style="font-weight:bold"><span style="font-size:30px">Texas Office</span></span></span>
+<span style="text-decoration:underline">[<span style="font-weight:bold">Ellen Steele</span>](https://www.facebook.com/pg/steeleportfolio/posts/)</span>
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
-###### The Oasis
+<span style="font-size:12px">Realtor</span>
 
-<span style="font-size:17px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace">6550 Comanche Trail \#211  
-Austin, TX 78732</span></span>  
- 
+<span style="font-size:12px">Realty Solutions</span>
 
-<span style="font-weight:bold">Cell 909-838-3554</span>
+<span style="font-size:12px">License \#674676</span>
 
-<span style="font-size:17px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace">Email; <Vickie.Lasher@htlenders.com></span></span>
+![](https://static.wixstatic.com/media/b5d103_b7aca57e5fe347998540f4f0b0aeccd7~mv2.jpg/v1/fill/w_156,h_156,al_c,lg_1,q_80,blur_3/b5d103_b7aca57e5fe347998540f4f0b0aeccd7~mv2.jpg)
 
-### <span style="font-weight:bold;">Send Me an Email</span>
+<span style="font-size:17px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace">Ellen has proven herself time and time again to be one of the most detailed and professional Realtors I have met in the past 30 years. Coupled with her charm and wicked sense of humor, you can not go wrong with having her by your side during any Real Estate Transaction!</span></span>
 
-<span style="color:color_34;"><span style="font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;"><span style="font-size:14px;">Success! Message received.</span></span></span>
+<span style="font-size:17px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span class="wixGuard">​</span></span></span>
 
-<span class="_1Qjd7">Send</span>
+<span style="font-weight:bold"><span style="font-size:17px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace">Contact Info</span></span></span>
 
-![](https://static.wixstatic.com/media/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg/v1/fill/w_26,h_26,al_c,q_80,usm_0.66_1.00_0.01,blur_3/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg)
+<span style="font-size:17px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-weight:bold">512-409-0553</span></span></span>
+
+### <span style="font-size:25px;"><span style="font-weight:bold"><span style="text-decoration:underline">Allen Deaver</span></span></span>
+
+Asset Realty
+
+![8EA4E829-5ED3-4DDD-97A4-2084B155CC3C.jpe](https://static.wixstatic.com/media/b5d103_0a6dbebeb2bb46139a5d02b8b3771d09~mv2.jpeg/v1/fill/w_156,h_156,al_c,q_80,usm_0.66_1.00_0.01,blur_3/8EA4E829-5ED3-4DDD-97A4-2084B155CC3C.jpeg)
+
+<span style="font-size:17px">Allen grew up in Abilene Texas and joined the US Air Force in 1986. Served in the 820th Red Horse Squadron at Nellis AFB, Kunsan AFB Kunsan South Korea and departed the Air Force in 1992 at Bergstorm AFB Austin TX. He has lived in Kyle TX since 1992 with his beautiful wife. He is a member of Kyle Baptist Church and the Onion Creek Masonic Lodge 220, PM Kyle Live Oak Lodge 304 and Buda Lodge 800.</span>
+
+<span style="font-size:17px"><span class="wixGuard">​</span></span>
+
+<span style="font-size:17px"><span style="font-weight:bold">Contact info</span></span>
+
+<span style="font-size:17px"><span style="font-weight:bold">512-7914543</span></span>
+
+![](https://static.wixstatic.com/media/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg/v1/fill/w_53,h_53,al_c,q_80,usm_0.66_1.00_0.01,blur_3/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg)
 
 <span style="font-size:55px;"><span style="font-weight:bold;">Follow Me!</span></span>
 ======================================================================================

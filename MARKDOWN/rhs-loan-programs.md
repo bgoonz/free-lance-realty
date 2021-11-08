@@ -52,28 +52,24 @@ NMLS \#235812
 
 Use tab to navigate through the menu items.
 
-<span style="line-height: 1.1em;"><span color="color_0">Get in touch</span></span>
-----------------------------------------------------------------------------------
+<span style="font-size:25px">USDA Loans</span>
+==============================================
 
-###### <span style="text-decoration:underline"><span style="font-weight:bold"><span style="font-size:30px">Texas Office</span></span></span>
+<span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">The U.S. Department of Agriculture offers a variety of programs to help low to moderate-income individuals living in small towns or rural areas achieve homeownership. The Rural Housing Service (RHS) helps qualifying applicants, who cannot receive credit from other sources, purchase modestly priced homes as their primary residence.</span></span>
 
-###### The Oasis
+<span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">USDA Loans are an attractive option because:</span></span>
 
-<span style="font-size:17px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace">6550 Comanche Trail \#211  
-Austin, TX 78732</span></span>  
+<span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px"><span class="wixGuard">​</span></span></span>
+
+-   <span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">Minimal closing cost</span></span>
+
+-   <span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">Low or no down payment</span></span>
+
  
 
-<span style="font-weight:bold">Cell 909-838-3554</span>
+<span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">USDA loans can be used toward the purchase and renovation of a previously owned home or a new construction. Families must be able to pay their monthly mortgage, homeowner’s insurance and property taxes.</span></span>
 
-<span style="font-size:17px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace">Email; <Vickie.Lasher@htlenders.com></span></span>
-
-### <span style="font-weight:bold;">Send Me an Email</span>
-
-<span style="color:color_34;"><span style="font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;"><span style="font-size:14px;">Success! Message received.</span></span></span>
-
-<span class="_1Qjd7">Send</span>
-
-![](https://static.wixstatic.com/media/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg/v1/fill/w_26,h_26,al_c,q_80,usm_0.66_1.00_0.01,blur_3/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg)
+![](https://static.wixstatic.com/media/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg/v1/fill/w_49,h_49,al_c,q_80,usm_0.66_1.00_0.01,blur_3/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg)
 
 <span style="font-size:55px;"><span style="font-weight:bold;">Follow Me!</span></span>
 ======================================================================================

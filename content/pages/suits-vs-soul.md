@@ -61,73 +61,64 @@ Search
 
 -   
 
--   -   <span class="post-metadata__date time-ago" title="Aug 27, 2018" data-hook="time-ago">Aug 27, 2018</span>
+-   -   <span class="post-metadata__date time-ago" title="Sep 5, 2018" data-hook="time-ago">Sep 5, 2018</span>
     -   
 
     -   <span class="post-metadata__readTime" i18n="[object Object]" title="2 min read" data-hook="time-to-read">2 min read</span>
 
-<span class="post-title__text blog-post-title-font blog-post-title-color"><span class="blog-post-title-font blog-post-title-color">Delicate Flower My Ass</span></span>
-=======================================================================================================================================================================
+<span class="post-title__text blog-post-title-font blog-post-title-color"><span class="blog-post-title-font blog-post-title-color">Suits vs Soul </span></span>
+===============================================================================================================================================================
 
 <span class="_2PHJq public-DraftStyleDefault-ltr">  
 </span>
 
-<img src="https://static.wixstatic.com/media/b5d103_7e2e1e10ac58476e96c4bed266fc2c61~mv2.jpg/v1/fit/w_492,h_656,al_c,q_20/file.jpg" class="OzAYt _3ii3f" />
+<img src="https://static.wixstatic.com/media/b5d103_12ef9080af0d4d26941b7248e210003e~mv2_d_1600_1200_s_2.jpg/v1/fit/w_750,h_563,al_c,q_20/file.jpg" class="OzAYt _3ii3f" />
 
-<span class="EilAw" dir="auto">Ready to Kick Ass!</span>
-
-<span class="_2PHJq public-DraftStyleDefault-ltr">  
-</span>
-
-<span class="_2PHJq public-DraftStyleDefault-ltr">When looking for a Realtor and Mortgage Lender Team you are going to want to work with someone you like. Professionals who will return your calls and ask how you are doing. Someone who show legitimate concern for your entire life not just the home buying process. How else could you trust that the advice they give you has the very best intentions based on your family’s needs. You want to share fun stories, crack a joke, and even share concerns. You want somebody to give you a warm reassuring smile. What may come as a surprise is you are going to want someone who has the ability to become a Rocky Balboa. I am talking about picking a Mortgage Lender or Realtor who can face off against Ivan Drogo without fear.</span>
+<span class="EilAw" dir="auto">We are all the same...</span>
 
 <span class="_2PHJq public-DraftStyleDefault-ltr">  
 </span>
 
-<img src="https://static.wixstatic.com/media/b5d103_ea139b86d80e46f6a74466de04fe4760~mv2.jpg/v1/fit/w_750,h_422,al_c,q_20/file.jpg" class="OzAYt _3ii3f" />
-
-<span class="EilAw" dir="auto">I will crush you</span>
+<span class="_2PHJq public-DraftStyleDefault-ltr">When I started in this industry the world was a vastly different place. Democrats and Republicans got along. Gay Marriage was illegal. Marijuana was illegal. Drinking at work was frowned upon… oh wait. Most of all everyone dressed the same way. Men especially. Women had a bit more variety in their clothing options but for the most part we to were tied to a general look. NOT a bad thing, just a fact. It was the times we lived in. Image was paramount over everything. If you didn’t look a certain way you obviously were able to perform the job. Kind of like the Hair Bands of the 80’s. There was no way to brainwash the youth of America watching MTV if you didn’t have big crazy hair. You MUST look a certain way or you were not to be taken seriously.</span>
 
 <span class="_2PHJq public-DraftStyleDefault-ltr">  
 </span>
 
-<span class="_2PHJq public-DraftStyleDefault-ltr">I’m not talking evil. I’m talking about someone who will fight ferociously on your behalf. Someone who will negotiate as it’s their bank account funding your purchase. Someone who will go toe-to-toe with an underwriter and be absolutely unstoppable when it comes to getting your new home. It is a brutal thing to witness. Your sweet Realtor or Mortgage Lender who’s smile brings rainbows will bare teeth, causing the person blocking your path to happiness to actually tinkle themselves a little bit.</span>
+<img src="https://static.wixstatic.com/media/b5d103_681e6e94d65c4fd9b77c4fed52b90b12~mv2.jpg/v1/fit/w_640,h_425,al_c,q_20/file.jpg" class="OzAYt _3ii3f" />
+
+<span class="EilAw" dir="auto">I can rock because I have big hair</span>
 
 <span class="_2PHJq public-DraftStyleDefault-ltr">  
 </span>
 
-<img src="https://static.wixstatic.com/media/b5d103_43b2f399c01f4f589a4ae7a280718686~mv2.jpg/v1/fit/w_468,h_286,al_c,q_20/file.jpg" class="OzAYt _3ii3f" />
-
-<span class="EilAw" dir="auto">Ok Ok! I'll pay the buyers closing costs!</span>
+<span class="_2PHJq public-DraftStyleDefault-ltr">I love to learn. I love to use my mind to stand out above the rest. I strive to be the most knowledgeable in the room when it comes to Home Loans. All of that was not possible unless I was sporting the current flavor of the month designer business suite. My mind would be ignored if I didn’t look like everyone else. Many people cannot imagine in this day and age being told that how you dress is more important than what you know but this was the world back then. Slowly that oppressive cloud that we lived under softened. Which was wildly good for me since I wasn’t fitting in with the Mean Girl Clique. My hippie ways lead me to apply art to my body in the form of tattoo’s. I kept my feet bare throughout most of the day. I dressed in clothes that I enjoyed. I was being me.</span>
 
 <span class="_2PHJq public-DraftStyleDefault-ltr">  
 </span>
 
-<span class="_2PHJq public-DraftStyleDefault-ltr">Being a woman myself, I can tell you that society expects me to follow and not lead. I have never been that way. I have educated myself to make sure others look to me for confirmation on what is being said. I stand by my clients in such a way that I have a perfect 5 Star Rating in Customer Service. I take my clients concerns on getting a home loan seriously. I was awarded Top 25 in the NATION for Customer Service for 2016. When I hear something along the lines of “You’re a delicate flower” I instantly want to twirl in a circle until my Amazonian Crown and Lasso of Truth appear and go kick ass!</span>
+<img src="https://static.wixstatic.com/media/b5d103_115541cee2974fe5aa7aa7dd5e4b8f23~mv2_d_3024_4032_s_4_2.jpg/v1/fit/w_750,h_1000,al_c,q_20/file.jpg" class="OzAYt _3ii3f" />
+
+<span class="EilAw" dir="auto">Me Being Me</span>
 
 <span class="_2PHJq public-DraftStyleDefault-ltr">  
 </span>
 
-<img src="https://static.wixstatic.com/media/b5d103_e8de1d07feb0433f88fe301c043b73d5~mv2.jpg/v1/fit/w_750,h_1334,al_c,q_20/file.jpg" class="OzAYt _3ii3f" />
+<span class="_2PHJq public-DraftStyleDefault-ltr">People’s opinions have changed a bit. Well except for the whole drinking at work thing. Much to my dismay, that still seems to be a solid “NO”. Slowly we were allowed to express ourselves. We can now show the world who we really are while still being respected for what our minds hold. I have traded in my business suits for colorful flowing dresses and shirts. I don’t cover up my tattoo’s. I rarely wear shoes in my office and yet I am still rocking a perfect 5.0 Rated Mortgage Lender in Customer Service. A rare distinction in my industry. I work my ass off to be the best and my clients have confirmed this by their kind words you can read at <a href="https://socialsurvey.me/pages/vickie-lasher" class="_3Bkfb _1lsz7"><span class="underline">https://socialsurvey.me/pages/vickie-lasher</span></a>. Being yourself allows you to be happy at whatever it is you do. </span>
 
-<span class="EilAw" dir="auto">I will get your Mortgage closed on time</span>
-
-<span class="_2PHJq public-DraftStyleDefault-ltr">  
-</span>
-
-<span class="_2PHJq public-DraftStyleDefault-ltr">As a Mortgage Lender in multiple states, I can tell you that being a woman or man has nothing to do with the level of greatness a Realtor can achieve. I have seen men negotiate with a Listing Agent with such finesse the Listing Agent is thankful for lowering the sales price. I have seen beautiful female Realtors cause the look of fear on a contractors face as he scurries away whimpering when he tried to get more money than was negotiated up front for work done on a house. This blog is to help Buyers understand that they must like, love, and trust the team they have working for them. This means that on occasion we must be able to stand our ground when it comes to representing them. Sometimes that can be a little scary. However, if you choose your Mortgage Lender and Realtor carefully, you may end up with a Rocky Balboa/Wonder Woman hybrid.</span>
+<span class="_2PHJq public-DraftStyleDefault-ltr">The most powerful lesson I have learned in the 30 years I have been in this industry is to follow my passion in a way that makes me happy. Have my tattoo’s, bare feet or the way I dress lost me a client? Possibly. But I have been very successful and most importantly very happy. I work for my own joy and I would suggest others do the same. The world would be a much brighter place if we were all happy people.</span>
 
 <span class="_2PHJq public-DraftStyleDefault-ltr">  
 </span>
 
-<img src="https://static.wixstatic.com/media/b5d103_d3dff615ace941d2b9357eb576fea1b0~mv2.jpg/v1/fit/w_750,h_750,al_c,q_20/file.jpg" class="OzAYt _3ii3f" />
-
-<span class="EilAw" dir="auto">Call me! Let's talk!</span>
+<span class="_2PHJq public-DraftStyleDefault-ltr">Any Mortgage Questions Please Email ME! <a href="mailto:Vlasher@afncorp.com" class="_3Bkfb _1lsz7"><span class="underline">Vlasher@afncorp.com</span></a> </span>
 
 <span class="_2PHJq public-DraftStyleDefault-ltr">  
 </span>
 
-<span class="_2PHJq public-DraftStyleDefault-ltr">Any questions on Mortgages please visit my site <a href="http://VickieLasher.com" class="_3Bkfb _1lsz7"><span class="underline">VickieLasher.com</span></a> and email me.</span>
+<img src="https://static.wixstatic.com/media/b5d103_e4366dc7f48a4272abab01bcf9a2652e~mv2.jpg/v1/fit/w_750,h_563,al_c,q_20/file.jpg" class="OzAYt _3ii3f" />
+
+<span class="_2PHJq public-DraftStyleDefault-ltr">  
+</span>
 
 <span class="_38Zqt"></span>
 
@@ -137,9 +128,7 @@ Search
 
 <span class="_38Zqt"></span>
 
-<span tabindex="0">0 views</span>
-
-<span tabindex="0">0 comments</span>
+<span tabindex="0">0 views</span><span tabindex="0">0 comments</span>
 
 <span class="_3KwtW" aria-live="off">Post not marked as liked</span><span class="_1l1q9" data-hook="like-button-with-count__like-count"></span>
 

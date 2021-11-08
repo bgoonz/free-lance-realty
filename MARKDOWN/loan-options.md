@@ -52,28 +52,32 @@ NMLS \#235812
 
 Use tab to navigate through the menu items.
 
-<span style="line-height: 1.1em;"><span color="color_0">Get in touch</span></span>
-----------------------------------------------------------------------------------
+<span style="font-size:25px;">Loan Options</span>
+=================================================
 
-###### <span style="text-decoration:underline"><span style="font-weight:bold"><span style="font-size:30px">Texas Office</span></span></span>
+-   <span style="text-decoration:underline">[<span style="font-size:20px">Adjustable Rate Mortgage (ARM)</span>](adjustable-rate-mortgage-arm.html)</span>
 
-###### The Oasis
+-   <span style="text-decoration:underline">[<span style="font-size:20px">Bank Statements Loans</span>](hard-money-loans.html)</span>
 
-<span style="font-size:17px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace">6550 Comanche Trail \#211  
-Austin, TX 78732</span></span>  
- 
+-   <span style="text-decoration:underline">[<span style="font-size:20px">Combined/Hybrid ARMs</span>](index.html)</span>
 
-<span style="font-weight:bold">Cell 909-838-3554</span>
+-   <span style="text-decoration:underline">[<span style="font-size:20px">Conforming Loans</span>](conforming-loans.html)</span>
 
-<span style="font-size:17px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace">Email; <Vickie.Lasher@htlenders.com></span></span>
+-   <span style="text-decoration:underline">[<span style="font-size:20px">Conventional Loans</span>](conventional-loans.html)</span>
 
-### <span style="font-weight:bold;">Send Me an Email</span>
+-   <span style="text-decoration:underline">[<span style="font-size:20px">FHA Loan</span>](fha-loan.html)</span>
 
-<span style="color:color_34;"><span style="font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;"><span style="font-size:14px;">Success! Message received.</span></span></span>
+-   <span style="text-decoration:underline">[<span style="font-size:20px">First Time Homebuyer Programs</span>](fixed-rate-mortgage.html)</span>
 
-<span class="_1Qjd7">Send</span>
+-   <span style="text-decoration:underline">[<span style="font-size:20px">Jumbo Loans</span>](jumbo-loans.html)</span>
 
-![](https://static.wixstatic.com/media/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg/v1/fill/w_26,h_26,al_c,q_80,usm_0.66_1.00_0.01,blur_3/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg)
+-   <span style="text-decoration:underline">[<span style="font-size:20px">Reverse Loan Programs</span>](rhs-loan-programs.html)</span>
+
+-   <span style="text-decoration:underline">[<span style="font-size:20px">State and Local Housing Programs</span>](state-and-local-housing-programs.html)</span>
+
+-   <span style="text-decoration:underline">[<span style="font-size:20px">VA Loan</span>](va-loan.html)</span>
+
+![](https://static.wixstatic.com/media/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg/v1/fill/w_61,h_61,al_c,q_80,usm_0.66_1.00_0.01,blur_3/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg)
 
 <span style="font-size:55px;"><span style="font-weight:bold;">Follow Me!</span></span>
 ======================================================================================
