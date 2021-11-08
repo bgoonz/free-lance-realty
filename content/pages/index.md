@@ -78,7 +78,8 @@ sections:
         subtitle: 'Product updates, inventory and pricing.'
         actions:
           - label: Learn More
-            url: /about
+            url: >-
+              https://htlconnect.htlenders.com/homehub/signup/VICKIE.LASHER@HTLENDERS.COM
             style: secondary
             has_icon: true
             icon: arrow-right
