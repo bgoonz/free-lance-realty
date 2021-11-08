@@ -52,28 +52,21 @@ NMLS \#235812
 
 Use tab to navigate through the menu items.
 
-<span style="line-height: 1.1em;"><span color="color_0">Get in touch</span></span>
-----------------------------------------------------------------------------------
+<span style="display: none;"> </span><span style="font-weight:bold;"><span style="font-size:40px;">California</span><span style="display: none;"> </span></span>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-###### <span style="text-decoration:underline"><span style="font-weight:bold"><span style="font-size:30px">Texas Office</span></span></span>
+<span style="font-weight:bold;">April Schmidt-Barrios</span>
+------------------------------------------------------------
 
-###### The Oasis
+<span style="font-size:12px;">Real Estate Agent</span>
 
-<span style="font-size:17px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace">6550 Comanche Trail \#211  
-Austin, TX 78732</span></span>  
- 
+![](https://static.wixstatic.com/media/b5d103_6a33f66ba69849dcb90e35374ce8aa9d~mv2.png/v1/crop/x_8,y_0,w_113,h_130/fill/w_158,h_182,al_c,lg_1,blur_3/b5d103_6a33f66ba69849dcb90e35374ce8aa9d~mv2.png)
 
-<span style="font-weight:bold">Cell 909-838-3554</span>
+<span style="font-size:17px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace">April has the biggest heart of all! She takes getting clients into not just a house but a dream home, to heart. Her clients needs and wishes are what provide April’s motivation to do the best job possible when finding buyers and sellers. You can never go wrong with such a caring Realtor </span></span>
 
-<span style="font-size:17px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace">Email; <Vickie.Lasher@htlenders.com></span></span>
+<span style="font-weight:bold"><span style="font-size:17px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace">Contact info</span></span></span>
 
-### <span style="font-weight:bold;">Send Me an Email</span>
-
-<span style="color:color_34;"><span style="font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;"><span style="font-size:14px;">Success! Message received.</span></span></span>
-
-<span class="_1Qjd7">Send</span>
-
-![](https://static.wixstatic.com/media/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg/v1/fill/w_26,h_26,al_c,q_80,usm_0.66_1.00_0.01,blur_3/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg)
+<span style="font-weight:bold"><span style="font-size:17px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace">951) 283-1359</span></span></span>
 
 <span style="font-size:55px;"><span style="font-weight:bold;">Follow Me!</span></span>
 ======================================================================================
