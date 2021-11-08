@@ -1,0 +1,114 @@
+ 
+
+![](https://static.wixstatic.com/media/5afe60462baf41e79586f3fdaf78d664.jpg/v1/fill/w_480,h_291,al_c,q_80,usm_0.66_1.00_0.01,blur_2/5afe60462baf41e79586f3fdaf78d664.jpg)
+
+<span style="font-size:87px"><span style="font-family:libre baskerville,serif">[Vickie Lasher ](index.html)</span></span>
+=========================================================================================================================
+
+NMLS \#235812
+=============
+
+<span style="font-size:25px"><Vickie.Lasher@htlenders.com> \*909-838-3554</span>
+================================================================================
+
+<a href="angel-wing-pictures.html" class="_1fbEI"><span class="_1Qjd7">Angel Wing Pictures</span></a>
+
+-   <span id="DrpDwnMn00"><a href="index.html" class="_11ip9"></a></span>
+    Home
+
+-   <span id="DrpDwnMn01"><a href="about.html" class="_11ip9"></a></span>
+    About
+
+    -   [Meet Our Staff](meet-our-staff.html)
+    -   [Angel Wing Pictures](angel-wing-pictures.html)
+    -   [California Professionals](recommended-profssionals.html)
+    -   [Texas Professionals](texas-recommended-professionals.html)
+    -   [Nevada Professionals](nevada-recommended-professionals.html)
+
+-   <span id="DrpDwnMn02"><a href="loan-options.html" class="_11ip9"></a></span>
+    Loan Options
+
+    -   [Adjustable Rate Mortgage (Arm)](adjustable-rate-mortgage-arm.html)
+    -   [Hard Money Loans](hard-money-loans.html)
+    -   [Conforming Loans](conforming-loans.html)
+    -   [Conventional Loans](conventional-loans.html)
+    -   [FHA Loan](fha-loan.html)
+    -   [Fixed Rate Mortgage](fixed-rate-mortgage.html)
+    -   [Jumbo Loans](jumbo-loans.html)
+    -   [USDA Loans](rhs-loan-programs.html)
+    -   [State and Local Housing Programs](state-and-local-housing-programs.html)
+    -   [VA Loan](va-loan.html)
+
+-   <span id="DrpDwnMn03"><a href="contact.html" class="_11ip9"></a></span>
+    Contact Us
+
+-   <span id="DrpDwnMn04"><a href="testimonials.html" class="_11ip9"></a></span>
+    Testimonials
+
+-   <span id="DrpDwnMn05"><a href="blog.html" class="_11ip9"></a></span>
+    Blog
+
+-   More
+
+Use tab to navigate through the menu items.
+
+<span style="font-size:25px">Fixed Rate Mortgage</span>
+=======================================================
+
+<span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">With a fixed rate mortgage, the interest rate does not change for the term of the loan, so the monthly payment is always the same. Typically, the shorter the loan period, the more attractive the interest rate will be.</span></span>
+
+<span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px"><span class="wixGuard">​</span></span></span>
+
+<span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">Payments on fixed-rate fully amortizing loans are calculated so that the loan is paid in full at the end of the term. In the early amortization period of the mortgage, a large percentage of the monthly payment pays the interest on the loan. As the mortgage is paid down, more of the monthly payment is applied toward the principal.</span></span>
+
+<span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">A 30 year fixed rate mortgage is the most popular type of loan when borrowers are able to lock into a low rate</span></span>
+
+ 
+
+<span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">Benefits:</span></span>
+
+-   <span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">Lower monthly payments than a 15 year fixed rate mortgage</span></span>
+
+-   <span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">Interest rate does not go up if interest rates go up</span></span>
+
+-   <span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">Payment does not go up, it stays the same for 30 years</span></span>
+
+<span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px"><span class="wixGuard">​</span></span></span>
+
+<span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">Drawbacks:</span></span>
+
+-   <span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">Higher interest rate than a 15 year fixed rate mortgage</span></span>
+
+-   <span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">Interest rate stays the same even if interest rates go down</span></span>
+
+-   <span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">A 15 year fixed rate mortgage allows you to pay off your loan quicker and lock into an attractive lower interest rate.</span></span>
+
+<span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px"><span class="wixGuard">​</span></span></span>
+
+<span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">Benefits:</span></span>
+
+-   <span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">Lower interest rate</span></span>
+
+-   <span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">Build equity faster</span></span>
+
+-   <span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">If interest rates go up, yours is fixed</span></span>
+
+<span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px"><span class="wixGuard">​</span></span></span>
+
+<span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">Drawbacks:</span></span>
+
+-   <span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">Higher monthly payment stays the same if interest rates go down</span></span>
+
+-   <span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace"><span style="font-size:13px">Interest rate stays the same even if interest rates go down</span></span>
+
+![](https://static.wixstatic.com/media/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg/v1/fill/w_52,h_52,al_c,q_80,usm_0.66_1.00_0.01,blur_3/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg)
+
+<span style="font-size:55px;"><span style="font-weight:bold;">Follow Me!</span></span>
+======================================================================================
+
+-   <span id="dataItem-jjeedrml1-comp-jjeedrlu"><a href="https://www.facebook.com/vickie.s.lasher" class="_26AQd"></a></span>
+-   <span id="dataItem-jjeedrmm-comp-jjeedrlu"><a href="https://www.instagram.com/vickielasher/" class="_26AQd"></a></span>
+
+<span class="color_12"><span style="font-size:6px">Austin, Austintx, Austin Texas, Austin Realtor, Austin Realestate,  ATX, ATX Realtor ATX Realestate, Home Loan, Home Loans, Mortgage, Mortgage Lender, Loan Officer, Realtor, Realestate, Interest Rate, Interest Rates, Loans, Home, Vickie Lasher, Vicky, Vicki, Oasis, Lake Travis, Lakeway, Cedar Park, Dripping Springs, Buda, Kyle, Round Rock, Georgetown, Leander, Volente, Largo Vista, South Austin, Bee Cave, Spicewood, Westlake, Refinance, New Construction, First Time Homebuyer, Downpayment assistance Programs, Cash out, home buying</span></span>
+
+ 
