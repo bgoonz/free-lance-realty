@@ -2,7 +2,7 @@
 title: About
 seo:
   title: About
-  description: This is the about page
+  description: "Austin, Austintx, Austin Texas, Austin Realtor, Austin Realestate,\_ ATX, ATX Realtor ATX Realestate, Home Loan, Home Loans, Mortgage, Mortgage Lender, Loan Officer, Realtor, Realestate, Interest "
   extra:
     - name: 'og:type'
       value: website
@@ -14,7 +14,7 @@ seo:
       value: This is the about page
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: /images/9GWMM2lf8x-6a46d0df.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -22,9 +22,9 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about page
+      value: "Austin, Austintx, Austin Texas, Austin Realtor, Austin Realestate,\_ ATX, ATX Realtor ATX Realestate, Home Loan, Home Loans, Mortgage, Mortgage Lender, Loan Officer, Realtor, Realestate, Interest Rate, Interest Rates, "
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: /images/9GWMM2lf8x-1e397fe9.png
       relativeUrl: true
 layout: page
 ---
