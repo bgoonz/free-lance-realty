@@ -4,8 +4,16 @@ sections:
   - type: hero_section
     title: 'Hi, I’m Alyvia. I help my clients succeed online.'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Our ultimate goal is to create lasting relationships with each of our
+      clients so that we may continue providing excellent service for many years
+      to come. ​ "With the foundation of Hometown Lenders, my focus has been on
+      what is truly important, CLIENTS! The proof that I care for my clients and
+      support their needs for Home Loans and address their concerns with total
+      commitment to Customer Service enabled me to be named in
+      SocialSurvey.com's 2016 Top 25 in Client Satisfaction in the United
+      States! They track over 20,000 Loan Officers. I could not have achieved
+      this honor without the support of this fantastic company."    – Vickie
+      Lasher ​
     actions:
       - label: Contact Me
         url: /contact
