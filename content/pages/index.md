@@ -93,10 +93,20 @@ sections:
         media_width: sixty
       - title: Technical Content
         subtitle: 'Your products and services, at scale.'
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          > We hear the term Customer Service every day.  It pops up when
+          watching T.V commercials while drinking our morning coffee. You see it
+          at the fast food place where we grab our breakfast that will sit in
+          our stomachs like a brick for the rest of the day. Don’t forget about
+          the almost daily phone call from someone trying to sell us on buying
+          more time-shares for our family’s wellbeing. It is said so often that
+          it has become an experience that we don’t often pay attention to
+          unless it’s really terrible or exceptional. This does not in any way
+          diminish the importance of Customer Service. When someone actually
+          performs excellent Customer Service, it’s almost like you’ve just met
+          a unicorn. Well as a Top Rated Mortgage Lender, I do provide excellent
+          Customer Service and I would love to be given the opportunity to prove
+          it.
         actions:
           - label: See Past Work
             url: /faq
