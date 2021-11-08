@@ -126,12 +126,22 @@ sections:
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
+      - content: >
+          **"Out of all the people involved in our purchase of
+
+          our new home, I think Vickie was the easily the most knowledgeable
+          person that
+
+          we dealt with. She pulled out all the stops to help us get into our
+          new home
+
+          and I would gladly recommend her to anyone looking for a lender and
+          she is
+
+          actually worth 10 stars, not just 5."**
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Charmange M, **7/9/2018
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
