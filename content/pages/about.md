@@ -2,7 +2,7 @@
 title: About
 seo:
   title: About
-  description: This is the about page
+  description: "Austin, Austintx, Austin Texas, Austin Realtor, Austin Realestate,\_ ATX, ATX Realtor ATX Realestate, Home Loan, Home Loans, Mortgage, Mortgage Lender, Loan Officer, Realtor, Realestate, Interest "
   extra:
     - name: 'og:type'
       value: website
