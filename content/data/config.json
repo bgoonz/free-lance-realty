@@ -48,9 +48,9 @@
                 "no_follow": false
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Loan Options",
                 "url": "#",
-                "style": "link",
+                "style": "primary",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "right",
@@ -58,7 +58,7 @@
                 "no_follow": false
             }
         ],
-        "has_secondary_nav": false
+        "has_secondary_nav": true
     },
     "footer": {
         "logo": "/images/logo-too-big.png",
