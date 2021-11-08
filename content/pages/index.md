@@ -57,7 +57,7 @@ sections:
     title: My services
     subtitle: What I do
     features:
-      - title: Content Creation
+      - title: What I do
         subtitle: 'Home office in Austin Tx. NMLS #235812'
         content: "### I specialize in:&#xA;\n\n*   Purchase Loans\n\n*   Refinance\n\n*   First Time Buyer Programs\n\n*   Reverse Mortgage\n\n\_\n\n"
         actions:
