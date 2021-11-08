@@ -30,7 +30,7 @@
             {
                 "label": "FAQ",
                 "url": "/faq",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "Contact me",
