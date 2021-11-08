@@ -127,7 +127,7 @@
                 "label": "Signup",
                 "url": "https://htlconnect.htlenders.com/homehub/signup/VICKIE.LASHER@HTLENDERS.COM",
                 "style": "primary",
-                "has_icon": false,
+                "has_icon": true,
                 "icon": "arrow-left",
                 "icon_position": "right",
                 "new_window": false,
