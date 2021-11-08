@@ -153,5 +153,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://marvelous-aluminum-11a84.netlify.app"
+    "domain": "https://marvelous-aluminum-11a84.netlify.app",
+    "favicon": "/images/home-61a17496.png"
 }
