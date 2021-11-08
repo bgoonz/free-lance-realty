@@ -30,9 +30,11 @@ layout: page
 ---
 ## **Meet Our Staff&#xA;**&#xA;
 
-## **Our Fearless Leader**
+**Our Fearless Leader**
 
-****![](/images/vikkiiii2.webp)
+##
+
+![](/images/vikkiiii2.webp)
 
 #### *A.K.A. "The Whip Cracker"*
 
