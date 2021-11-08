@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m Alyvia. I help my clients succeed online.'
-    subtitle: '2016 Top 25 in Client Satisfaction in the United States NMLS #235812'
+    subtitle: "2016 Top 25 in Client Satisfaction in the United States\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ NMLS #235812"
     actions:
       - label: Contact Me
         url: /contact
