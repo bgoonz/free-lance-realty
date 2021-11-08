@@ -16,7 +16,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: /images/hometown-99e43083.webp
+    background_image: /images/nice-realestate-7126bc1d.jpg
     background_image_repeat: no-repeat
     background_image_size: contain
     background_image_opacity: 10
