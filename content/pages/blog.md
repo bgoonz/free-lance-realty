@@ -1,15 +1,12 @@
- 
+
 
 ![](https://static.wixstatic.com/media/5afe60462baf41e79586f3fdaf78d664.jpg/v1/fill/w_480,h_291,al_c,q_80,usm_0.66_1.00_0.01,blur_2/5afe60462baf41e79586f3fdaf78d664.jpg)
 
-<span style="font-size:87px"><span style="font-family:libre baskerville,serif">[Vickie Lasher ](index.html)</span></span>
-=========================================================================================================================
+# <span style="font-size:87px"><span style="font-family:libre baskerville,serif">[Vickie Lasher ](index.html)</span></span>
 
-NMLS \#235812
-=============
+# NMLS \#235812
 
-<span style="font-size:25px"><Vickie.Lasher@htlenders.com> \*909-838-3554</span>
-================================================================================
+# <span style="font-size:25px"><Vickie.Lasher@htlenders.com> \*909-838-3554</span>
 
 <a href="angel-wing-pictures.html" class="_1fbEI"><span class="_1Qjd7">Angel Wing Pictures</span></a>
 
@@ -63,7 +60,7 @@ Search
 <span class="m2OY2"><span class="iYG_V user-name _60KfD blog-post-homepage-description-color blog-post-homepage-description-font blog-post-homepage-link-hashtag-hover-color" title="Vickie Lasher" data-hook="user-name">Vickie Lasher</span></span>
 
 -   <span class="post-metadata__date time-ago" title="Oct 1, 2018" data-hook="time-ago">Oct 1, 2018</span>
--   
+-
 
 -   <span class="post-metadata__readTime" i18n="[object Object]" title="4 min" data-hook="time-to-read">4 min</span>
 
@@ -84,7 +81,7 @@ My sweet Grandmother was wrangled into becoming our babysitter while my siblings
 <span class="m2OY2"><span class="iYG_V user-name _60KfD blog-post-homepage-description-color blog-post-homepage-description-font blog-post-homepage-link-hashtag-hover-color" title="Vickie Lasher" data-hook="user-name">Vickie Lasher</span></span>
 
 -   <span class="post-metadata__date time-ago" title="Sep 10, 2018" data-hook="time-ago">Sep 10, 2018</span>
--   
+-
 
 -   <span class="post-metadata__readTime" i18n="[object Object]" title="3 min" data-hook="time-to-read">3 min</span>
 
@@ -105,7 +102,7 @@ The World Is My Office I read an article on the news app from my phone. It talks
 <span class="m2OY2"><span class="iYG_V user-name _60KfD blog-post-homepage-description-color blog-post-homepage-description-font blog-post-homepage-link-hashtag-hover-color" title="Vickie Lasher" data-hook="user-name">Vickie Lasher</span></span>
 
 -   <span class="post-metadata__date time-ago" title="Sep 5, 2018" data-hook="time-ago">Sep 5, 2018</span>
--   
+-
 
 -   <span class="post-metadata__readTime" i18n="[object Object]" title="2 min" data-hook="time-to-read">2 min</span>
 
@@ -126,7 +123,7 @@ When I started in this industry the world was a vastly different place. Democrat
 <span class="m2OY2"><span class="iYG_V user-name _60KfD blog-post-homepage-description-color blog-post-homepage-description-font blog-post-homepage-link-hashtag-hover-color" title="Vickie Lasher" data-hook="user-name">Vickie Lasher</span></span>
 
 -   <span class="post-metadata__date time-ago" title="Aug 27, 2018" data-hook="time-ago">Aug 27, 2018</span>
--   
+-
 
 -   <span class="post-metadata__readTime" i18n="[object Object]" title="2 min" data-hook="time-to-read">2 min</span>
 
@@ -147,7 +144,7 @@ When looking for a Realtor and Mortgage Lender Team you are going to want to wor
 <span class="m2OY2"><span class="iYG_V user-name _60KfD blog-post-homepage-description-color blog-post-homepage-description-font blog-post-homepage-link-hashtag-hover-color" title="Vickie Lasher" data-hook="user-name">Vickie Lasher</span></span>
 
 -   <span class="post-metadata__date time-ago" title="Aug 25, 2018" data-hook="time-ago">Aug 25, 2018</span>
--   
+-
 
 -   <span class="post-metadata__readTime" i18n="[object Object]" title="3 min" data-hook="time-to-read">3 min</span>
 
@@ -168,7 +165,7 @@ You bought a house, it’s ok to freak out So you’ve already talked to a fanta
 <span class="m2OY2"><span class="iYG_V user-name _60KfD blog-post-homepage-description-color blog-post-homepage-description-font blog-post-homepage-link-hashtag-hover-color" title="Vickie Lasher" data-hook="user-name">Vickie Lasher</span></span>
 
 -   <span class="post-metadata__date time-ago" title="Aug 23, 2018" data-hook="time-ago">Aug 23, 2018</span>
--   
+-
 
 -   <span class="post-metadata__readTime" i18n="[object Object]" title="3 min" data-hook="time-to-read">3 min</span>
 
@@ -189,7 +186,7 @@ Customer Service? Prove it… We hear the term Customer Service every day. It po
 <span class="m2OY2"><span class="iYG_V user-name _60KfD blog-post-homepage-description-color blog-post-homepage-description-font blog-post-homepage-link-hashtag-hover-color" title="Vickie Lasher" data-hook="user-name">Vickie Lasher</span></span>
 
 -   <span class="post-metadata__date time-ago" title="Aug 23, 2018" data-hook="time-ago">Aug 23, 2018</span>
--   
+-
 
 -   <span class="post-metadata__readTime" i18n="[object Object]" title="3 min" data-hook="time-to-read">3 min</span>
 
@@ -210,7 +207,7 @@ Why the hell do you need THAT! If you have bought a house in the past you know y
 <span class="m2OY2"><span class="iYG_V user-name _60KfD blog-post-homepage-description-color blog-post-homepage-description-font blog-post-homepage-link-hashtag-hover-color" title="Vickie Lasher" data-hook="user-name">Vickie Lasher</span></span>
 
 -   <span class="post-metadata__date time-ago" title="Aug 22, 2018" data-hook="time-ago">Aug 22, 2018</span>
--   
+-
 
 -   <span class="post-metadata__readTime" i18n="[object Object]" title="3 min" data-hook="time-to-read">3 min</span>
 
@@ -226,12 +223,11 @@ When you decide that you are ready to follow the American Dream of homeownership
 
 ![](https://static.wixstatic.com/media/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg/v1/fill/w_34,h_34,al_c,q_80,usm_0.66_1.00_0.01,blur_3/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg)
 
-<span style="font-size:55px;"><span style="font-weight:bold;">Follow Me!</span></span>
-======================================================================================
+# <span style="font-size:55px;"><span style="font-weight:bold;">Follow Me!</span></span>
 
 -   <span id="dataItem-jjeedrml1-comp-jjeedrlu"><a href="https://www.facebook.com/vickie.s.lasher" class="_26AQd"></a></span>
 -   <span id="dataItem-jjeedrmm-comp-jjeedrlu"><a href="https://www.instagram.com/vickielasher/" class="_26AQd"></a></span>
 
 <span class="color_12"><span style="font-size:6px">Austin, Austintx, Austin Texas, Austin Realtor, Austin Realestate,  ATX, ATX Realtor ATX Realestate, Home Loan, Home Loans, Mortgage, Mortgage Lender, Loan Officer, Realtor, Realestate, Interest Rate, Interest Rates, Loans, Home, Vickie Lasher, Vicky, Vicki, Oasis, Lake Travis, Lakeway, Cedar Park, Dripping Springs, Buda, Kyle, Round Rock, Georgetown, Leander, Volente, Largo Vista, South Austin, Bee Cave, Spicewood, Westlake, Refinance, New Construction, First Time Homebuyer, Downpayment assistance Programs, Cash out, home buying</span></span>
 
- 
+

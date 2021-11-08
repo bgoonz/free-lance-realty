@@ -1,15 +1,12 @@
- 
+
 
 ![](https://static.wixstatic.com/media/5afe60462baf41e79586f3fdaf78d664.jpg/v1/fill/w_480,h_291,al_c,q_80,usm_0.66_1.00_0.01,blur_2/5afe60462baf41e79586f3fdaf78d664.jpg)
 
-<span style="font-size:87px"><span style="font-family:libre baskerville,serif">[Vickie Lasher ](../index.html)</span></span>
-============================================================================================================================
+# <span style="font-size:87px"><span style="font-family:libre baskerville,serif">[Vickie Lasher ](../index.html)</span></span>
 
-NMLS \#235812
-=============
+# NMLS \#235812
 
-<span style="font-size:25px"><Vickie.Lasher@htlenders.com> \*909-838-3554</span>
-================================================================================
+# <span style="font-size:25px"><Vickie.Lasher@htlenders.com> \*909-838-3554</span>
 
 <a href="../angel-wing-pictures.html" class="_1fbEI"><span class="_1Qjd7">Angel Wing Pictures</span></a>
 
@@ -56,18 +53,16 @@ Use tab to navigate through the menu items.
 
 Search
 
--   
-    <span class="_1NzhF avatar-image" i18n="[object Object]"><img src="https://gravatar.com/avatar/d5a4c4dfa58333c9beb6962dd38d245b?d=blank" class="_18Vq1 fluid-avatar-image" /></span><span class="iYG_V user-name _4AzY3" title="Vickie Lasher" data-hook="user-name">Vickie Lasher</span>
+-   <span class="_1NzhF avatar-image" i18n="[object Object]"><img src="https://gravatar.com/avatar/d5a4c4dfa58333c9beb6962dd38d245b?d=blank" class="_18Vq1 fluid-avatar-image" /></span><span class="iYG_V user-name _4AzY3" title="Vickie Lasher" data-hook="user-name">Vickie Lasher</span>
 
--   
+-
 
 -   -   <span class="post-metadata__date time-ago" title="Sep 10, 2018" data-hook="time-ago">Sep 10, 2018</span>
-    -   
+    -
 
     -   <span class="post-metadata__readTime" i18n="[object Object]" title="3 min read" data-hook="time-to-read">3 min read</span>
 
-<span class="post-title__text blog-post-title-font blog-post-title-color"><span class="blog-post-title-font blog-post-title-color">My Beautiful Phone Addiction</span></span>
-=============================================================================================================================================================================
+# <span class="post-title__text blog-post-title-font blog-post-title-color"><span class="blog-post-title-font blog-post-title-color">My Beautiful Phone Addiction</span></span>
 
 <span class="_2PHJq public-DraftStyleDefault-ltr">  
 </span>
@@ -98,7 +93,7 @@ Search
 <span class="_2PHJq public-DraftStyleDefault-ltr">  
 </span>
 
-<span class="_2PHJq public-DraftStyleDefault-ltr">Ok, I may be a little addicted but let me justify the addiction, just as all addicts do. Being a Top Rated Mortgage Lender I really don’t have a choice but to allow my phone and laptop to be a part of my life, no matter where I am. My clients have questions. Realtors have new clients who need to prequalify for a home loan. Appraisers, Title Reps and Processors all call, email and text with the expectation I will answer their questions within minutes. Oh sure, If I want to be an average Mortgage Lender then I will simply turn off my cell phone and return my calls later. However, I am not average. Remember I said *Top Rated Mortgage Lender*. Being mediocre is just not who I am and my clients experience the difference. I am Nationally Ranked for Customer Service because I do not think of my Clients and Realtors as simply work. They are vastly more important than that. So no matter where I am or what I am doing I make time for those in need of my expertise. I spend my time living life and working at the same time. I wouldn’t have it any other way. My so called addiction has allowed me to travel to far away magical places and still use technology to provide my clients that renowned customer service.</span>
+<span class="_2PHJq public-DraftStyleDefault-ltr">Ok, I may be a little addicted but let me justify the addiction, just as all addicts do. Being a Top Rated Mortgage Lender I really don’t have a choice but to allow my phone and laptop to be a part of my life, no matter where I am. My clients have questions. Realtors have new clients who need to prequalify for a home loan. Appraisers, Title Reps and Processors all call, email and text with the expectation I will answer their questions within minutes. Oh sure, If I want to be an average Mortgage Lender then I will simply turn off my cell phone and return my calls later. However, I am not average. Remember I said _Top Rated Mortgage Lender_. Being mediocre is just not who I am and my clients experience the difference. I am Nationally Ranked for Customer Service because I do not think of my Clients and Realtors as simply work. They are vastly more important than that. So no matter where I am or what I am doing I make time for those in need of my expertise. I spend my time living life and working at the same time. I wouldn’t have it any other way. My so called addiction has allowed me to travel to far away magical places and still use technology to provide my clients that renowned customer service.</span>
 
 <span class="_2PHJq public-DraftStyleDefault-ltr">  
 </span>
@@ -118,7 +113,7 @@ Search
 <span class="_2PHJq public-DraftStyleDefault-ltr">  
 </span>
 
-<span class="_2PHJq public-DraftStyleDefault-ltr">I have two offices that I work out of. One is in Redlands, California while the other is in Austin, Texas. I travel back and forth with long *Fun Time* weekends sprinkled in between. A few months back I had a Realtor who had just realized I was in Texas that day ask me “How do I to use you when you aren’t here?” I had to point out that even though we speak weekly they had not actually seen me in person in almost a year. Secondly, I have been living in both states for over a year. The Realtor was still unconvinced until I reminded them the past three clients they had sent me all closed early and all of them gave me 5.0 Stars on the Customer Service Survey after they closed. The proof of my ability to perform excellent customer service is the fact that most people never know I’m not shackled to my desk. All thanks to my Cell Phone Addiction. Some may scoff at the attention I pay to my phone but you will never hear a client of mine sing anything other than praises for how important I made them feel. I will simply be happy that I can make a difference in the lives of my Realtors and Clients while I revel in my addiction.</span>
+<span class="_2PHJq public-DraftStyleDefault-ltr">I have two offices that I work out of. One is in Redlands, California while the other is in Austin, Texas. I travel back and forth with long _Fun Time_ weekends sprinkled in between. A few months back I had a Realtor who had just realized I was in Texas that day ask me “How do I to use you when you aren’t here?” I had to point out that even though we speak weekly they had not actually seen me in person in almost a year. Secondly, I have been living in both states for over a year. The Realtor was still unconvinced until I reminded them the past three clients they had sent me all closed early and all of them gave me 5.0 Stars on the Customer Service Survey after they closed. The proof of my ability to perform excellent customer service is the fact that most people never know I’m not shackled to my desk. All thanks to my Cell Phone Addiction. Some may scoff at the attention I pay to my phone but you will never hear a client of mine sing anything other than praises for how important I made them feel. I will simply be happy that I can make a difference in the lives of my Realtors and Clients while I revel in my addiction.</span>
 
 <span class="_2PHJq public-DraftStyleDefault-ltr">  
 </span>
@@ -128,7 +123,7 @@ Search
 <span class="_2PHJq public-DraftStyleDefault-ltr">  
 </span>
 
-<span class="_2PHJq public-DraftStyleDefault-ltr">What a Mortgage Lender to put you first, *Always*? Contact me at <a href="../index.html" class="_3Bkfb _1lsz7"><span class="underline">VickieLasher.com</span></a> </span>
+<span class="_2PHJq public-DraftStyleDefault-ltr">What a Mortgage Lender to put you first, _Always_? Contact me at <a href="../index.html" class="_3Bkfb _1lsz7"><span class="underline">VickieLasher.com</span></a> </span>
 
 <span class="_38Zqt"></span>
 
@@ -146,12 +141,11 @@ Search
 
 <span class="_1jqCz blog-text-background-color"></span><span class="_1jqCz blog-text-background-color"></span><span class="_1jqCz blog-text-background-color"></span>
 
-<span style="font-size:55px;"><span style="font-weight:bold;">Follow Me!</span></span>
-======================================================================================
+# <span style="font-size:55px;"><span style="font-weight:bold;">Follow Me!</span></span>
 
 -   <span id="dataItem-jjeedrml1-comp-jjeedrlu"><a href="https://www.facebook.com/vickie.s.lasher" class="_26AQd"></a></span>
 -   <span id="dataItem-jjeedrmm-comp-jjeedrlu"><a href="https://www.instagram.com/vickielasher/" class="_26AQd"></a></span>
 
 <span class="color_12"><span style="font-size:6px">Austin, Austintx, Austin Texas, Austin Realtor, Austin Realestate,  ATX, ATX Realtor ATX Realestate, Home Loan, Home Loans, Mortgage, Mortgage Lender, Loan Officer, Realtor, Realestate, Interest Rate, Interest Rates, Loans, Home, Vickie Lasher, Vicky, Vicki, Oasis, Lake Travis, Lakeway, Cedar Park, Dripping Springs, Buda, Kyle, Round Rock, Georgetown, Leander, Volente, Largo Vista, South Austin, Bee Cave, Spicewood, Westlake, Refinance, New Construction, First Time Homebuyer, Downpayment assistance Programs, Cash out, home buying</span></span>
 
- 
+

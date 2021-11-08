@@ -1,19 +1,14 @@
- 
+
 
 ![](https://static.wixstatic.com/media/5afe60462baf41e79586f3fdaf78d664.jpg/v1/fill/w_480,h_291,al_c,q_80,usm_0.66_1.00_0.01,blur_2/5afe60462baf41e79586f3fdaf78d664.jpg)
 
-<span style="font-size:87px"><span style="font-family:libre baskerville,serif">[Vickie Lasher ](index.html)</span></span>
-=========================================================================================================================
+# <span style="font-size:87px"><span style="font-family:libre baskerville,serif">[Vickie Lasher ](index.html)</span></span>
 
-NMLS \#235812
-=============
+# NMLS \#235812
 
-Vickie.Lasher@htlenders.com *909-838-3554
-================================================================================
+# Vickie.Lasher@htlenders.com \*909-838-3554
 
-
-Our Philosophy
---------------
+## Our Philosophy
 
 ### <span style="font-size:17px"><span style="font-family:courier new,courier-ps-w01,courier-ps-w02,courier-ps-w10,monospace">Our ultimate goal is to create lasting relationships with each of our clients so that we may continue providing excellent service for many years to come.</span></span>
 
@@ -31,16 +26,15 @@ Our Philosophy
 
 ![](https://static.wixstatic.com/media/b5d103_fee1ca15e4ec406d8bb27f0b4bed7391~mv2.jpg/v1/fill/w_81,h_52,al_c,q_80,usm_0.66_1.00_0.01,blur_2/b5d103_fee1ca15e4ec406d8bb27f0b4bed7391~mv2.jpg)
 
-![IMG\_9873.PNG](https://static.wixstatic.com/media/b5d103_af023f8817ef476d96314aeef668623c~mv2.png/v1/fill/w_110,h_110,al_c,usm_0.66_1.00_0.01,blur_3/IMG_9873_PNG.png)
+![IMG_9873.PNG](https://static.wixstatic.com/media/b5d103_af023f8817ef476d96314aeef668623c~mv2.png/v1/fill/w_110,h_110,al_c,usm_0.66_1.00_0.01,blur_3/IMG_9873_PNG.png)
 
 ![](https://static.wixstatic.com/media/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg/v1/fill/w_53,h_53,al_c,q_80,usm_0.66_1.00_0.01,blur_3/b5d103_5e49dc9ca5f64e529a6b55be155ac4fa~mv2_d_2758_2778_s_4_2.jpg)
 
-<span style="font-size:55px;"><span style="font-weight:bold;">Follow Me!</span></span>
-======================================================================================
+# <span style="font-size:55px;"><span style="font-weight:bold;">Follow Me!</span></span>
 
 -   <span id="dataItem-jjeedrml1-comp-jjeedrlu"><a href="https://www.facebook.com/vickie.s.lasher" class="_26AQd"></a></span>
 -   <span id="dataItem-jjeedrmm-comp-jjeedrlu"><a href="https://www.instagram.com/vickielasher/" class="_26AQd"></a></span>
 
 <span class="color_12"><span style="font-size:6px">Austin, Austintx, Austin Texas, Austin Realtor, Austin Realestate,  ATX, ATX Realtor ATX Realestate, Home Loan, Home Loans, Mortgage, Mortgage Lender, Loan Officer, Realtor, Realestate, Interest Rate, Interest Rates, Loans, Home, Vickie Lasher, Vicky, Vicki, Oasis, Lake Travis, Lakeway, Cedar Park, Dripping Springs, Buda, Kyle, Round Rock, Georgetown, Leander, Volente, Largo Vista, South Austin, Bee Cave, Spicewood, Westlake, Refinance, New Construction, First Time Homebuyer, Downpayment assistance Programs, Cash out, home buying</span></span>
 
- 
+
