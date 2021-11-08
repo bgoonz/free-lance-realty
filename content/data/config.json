@@ -101,15 +101,6 @@
                 "new_window": true
             },
             {
-                "label": "Vimeo",
-                "url": "https://vimeo.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "vimeo",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
                 "label": "Instagram",
                 "url": "https://instagram.com/",
                 "style": "link",
