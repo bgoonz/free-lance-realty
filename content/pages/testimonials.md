@@ -1,13 +1,13 @@
 ---
-title: testimonials
+title: lorem-ipsum
 seo:
-  title: 'testimonials'
+  title: ''
   description: ''
   robots: []
   extra: []
 layout: page
 ---
-# Testimonials&#xA;&#xA;
+#
 
 > 8/24/18
 
